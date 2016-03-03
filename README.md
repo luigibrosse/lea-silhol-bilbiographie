@@ -1,5 +1,7 @@
 # Bibliographie de Léa Silhol
 
+[Télécharger en pdf](https://gitprint.com/luigibrosse/lea-silhol-bilbiographie/blob/master/README.md?download) - [Imprimer](https://gitprint.com/luigibrosse/lea-silhol-bilbiographie/blob/master/README.md?print)
+
 ## Romans
 
 * **La Sève et le Givre**
