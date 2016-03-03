@@ -9,7 +9,7 @@
   * [ ] Edition fission - Editions de l’Oxymore - 2002.10 - 291393921X
   * [ ] Poche - Editions du Seuil, Points - 2006.05 - 2020851598
   * [ ] Club - France Loisirs - 2004.09 - 2744174343
-* **La Glace et la nuit I, Nigredo**
+* **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
 * **Avant l’hiver**
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
@@ -25,20 +25,31 @@
 * **Conversation avec la Mort**
   * [ ] Edition régulière - Editions de l’Oxymore - 2003.05 - 2913939333
 * **La Tisseuse** - Contes de Fées, Contes de Failles
-  * [ ] Edition régulière - Editions de l’Oxymore - 2004.01 - 2913939376
-  * [ ] Edition fission - Editions de l’Oxymore - 2004.01 - 2913939384
+  * [ ] Edition régulière - Editions de l’Oxymore - 2004.01 - 9782913939370
+  * [ ] Edition fission - Editions de l’Oxymore - 2004.01 - 9782913939387
 * **Musiques de la Frontière**
-  * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 2913939473
+  * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 9782913939497
   * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 2913939465
-* **Fovéa** (errortype I)
-  * [ ] Erythropsine edit
-  * [ ] Chloropsine mix
+* **Fovéa** - errortype I
+  * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
+  * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
 * **Sacra I** - Aucun cœur inhumain
   * [ ] Edition regular - Nitchevo Factory - 2016.02 - 9791094902035
 * **Sacra II** - Nulle âme invincible
   * [ ] Edition regular - Nitchevo Factory - 2016.03
 
 ## Nouvelles
+
+* **Discours direct** un baiser de vampire
+  * [ ] Requiem #2 - 1997.01
+  * [ ] Conversation avec la Mort - Edition régulière - 2003.05
+* **Lucifer Opiomane**
+  * [ ] Codex Atlanticus #5 - 1998.11
+  * [ ] Rêves d'Absinthe - 2001.10
+  * [ ] Conversation avec la Mort - Edition régulière - 2003.05
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+
 
 * **A Lost Song**
 * **A New Dawn**
@@ -60,7 +71,6 @@
 * **De Nuit, de Glace, d'Argent**
 * **Dialogue avec les Ombres**
 * **Différentes couleurs : Cinq prières japonaises**
-* **Discours Direct : un Baiser de Vampire**
 * **Don't**
 * **Désaccordé (tuned in DAGDAD)**
 * **Emblemata**
@@ -94,7 +104,6 @@
 * **Les Promesses du Fleuve**
 * **Leçon de Clartés**
 * **Lithophanie**
-* **Lucifer Opiomane**
 * **Lumière Noire**
 * **Là où changent les formes**
 * **Macula Lutea**
