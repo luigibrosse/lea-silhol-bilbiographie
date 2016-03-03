@@ -40,83 +40,97 @@
 
 ## Nouvelles
 
-* A Lost Song
-* A New Dawn
-* A travers la fumée
-* Arcane I / Le Magicien
-* Assassin (Comme un Reflet dans une Eau Morte)
-* Blind Code
-* Bloodflowers
-* Bubblegum Butterflies
-* Béni soit l'Exil
-* Comme marchent les Ombres
-* Comme une Balle
-* Couleurs d'Automne
-* D'une étoile à l'autre
-* De l'Or dont on fait les Âges (la Reine, en son privé)
-* De Nuit, de Glace, d'Argent
-* Dialogue avec les Ombres
-* Discours Direct : un Baiser de Vampire
-* Don't
-* Emblemata
-* En Tissant la Trame
-* Encordés à la Nuit
-* Faire Surface
-* Father Lucifer
-* Fragarach (the Answerer)
-* Frost (car s'en viennent les Mille Ans de Froid)
-* G.
-* Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi
-* Gone Fading Everything
-* Il ne neige pas à Frontier
-* Kay
-* L'Encre, le Sang
-* L'Ordalie des Matriarches
-* L'Étoile, au Matin
-* La Ballade des Égarés
-* La Faille Céleste
-* La Faveur de la Nuit
-* La Gorgone Enfant
-* La Loi du Flocon
-* Le Cœur de l'Hiver
-* Le Lied d'Intransigeance
-* Le Lys Noir
-* Le Maître de Kodo
-* Le rêve en la cité
-* Le Vent dans l'Ouvroir
-* Les Promesses du Fleuve
-* Leçon de Clartés
-* Lithophanie
-* Lucifer Opiomane
-* Lumière Noire
-* Là où changent les formes
-* Macula Lutea
-* Magnificat
-* Maillon d'une Ancienne Chaîne
-* Mille Ans de Servitude
-* Never
-* Nos Funérailles
-* Over Dry Lands (Comment la Nef Vint au Fou)
-* Passing By
-* Quelque Chose de Fragile
-* Runaway Train
-* Sfrixàda, l'Empreinte, dans la cendre
-* Stone (the Song of Herne)
-* Sur la Terre comme au Ciel
-* Tanka-Coma
-* The Cat & the Choker
-* The Passenger
-* Tous des Anges
-* Trois fois
-* Un Miroir de Galets
-* Under the Ivy
-* Une Hécate et son Chien
-* Vado Mori
-* Vertigo Eyes
-* Voix de Sève
-* Why?
-* Xolotl
-* À Bout de Course
-* À l'Image de la Nuit
-* À l'Ombre des Ifs foudroyés
-* À Moitié Malade des Ombres
+* **A Lost Song**
+* **A New Dawn**
+* **Arcane I / Le Magicien**
+* **Assassin (Comme un Reflet dans une Eau Morte)**
+* **Blind Code**
+* **Bloodflowers**
+* **Bref Entretien**
+* **Bubblegum Butterflies**
+* **Béni soit l'Exil**
+* **Canto I**
+* **Canto XI**
+* **Comme marchent les Ombres**
+* **Comme une Balle**
+* **Couleurs d'Automne**
+* **D'une étoile à l'autre**
+* **De l'Or dont on fait les Âges (la Reine, en son privé)**
+* **De la Gorgone, à sa fille (recette de salade composée)**
+* **De Nuit, de Glace, d'Argent**
+* **Dialogue avec les Ombres**
+* **Différentes couleurs : Cinq prières japonaises**
+* **Discours Direct : un Baiser de Vampire**
+* **Don't**
+* **Désaccordé (tuned in DAGDAD)**
+* **Emblemata**
+* **En Tissant la Trame**
+* **Encordés à la Nuit**
+* **Faire Surface**
+* **Father Lucifer**
+* **Fragarach (the Answerer)**
+* **Frost (car s'en viennent les Mille Ans de Froid)**
+* **G.**
+* **Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi**
+* **Gone Fading Everything**
+* **Il ne neige pas à Frontier**
+* **Indélébile**
+* **Kay**
+* **L'Encre, le Sang**
+* **L'Ordalie des Matriarches**
+* **L'Étoile, au Matin**
+* **La Ballade des Égarés**
+* **La Faille Céleste**
+* **La Faveur de la Nuit**
+* **La Gorgone Enfant**
+* **La Loi du Flocon**
+* **Le Cœur de l'Hiver**
+* **Le Lied d'Intransigeance**
+* **Le Lys Noir**
+* **Le Maître de Kodo**
+* **Le rêve en la cité**
+* **Le Vent dans l'Ouvroir**
+* **Le Vin des Naufrageurs**
+* **Les Promesses du Fleuve**
+* **Leçon de Clartés**
+* **Lithophanie**
+* **Lucifer Opiomane**
+* **Lumière Noire**
+* **Là où changent les formes**
+* **Macula Lutea**
+* **Magickal**
+* **Magnificat**
+* **Maillon d'une Ancienne Chaîne**
+* **Mille Ans de Servitude**
+* **Never**
+* **Nos Funérailles**
+* **Over Dry Lands (Comment la Nef Vint au Fou)**
+* **Passing By**
+* **Point du jour**
+* **Quelque Chose de Fragile**
+* **Runaway Train**
+* **Sfrixàda, l'Empreinte, dans la cendre**
+* **Shinear**
+* **Sous l'Aiguille**
+* **Stone (the Song of Herne)**
+* **Sur la Terre comme au Ciel**
+* **Tanka-Coma**
+* **The Cat & the Choker**
+* **The Passenger**
+* **Tous des Anges**
+* **Trois fois**
+* **Un Miroir de Galets**
+* **Un Parfum de Malicore**
+* **Under the Ivy**
+* **Une Hécate et son Chien**
+* **Vado Mori**
+* **Vertigo Eyes**
+* **Voix de Sève**
+* **Why?**
+* **Winter Wonderland Inc.**
+* **Xolotl**
+* **À Bout de Course**
+* **À l'Image de la Nuit**
+* **À l'Ombre des Ifs foudroyés**
+* **À Moitié Malade des Ombres**
+* **À travers la fumée**
