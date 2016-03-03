@@ -50,7 +50,7 @@
 
 * **Lucifer opiomane**
   * [ ] Codex Atlanticus #5 - La Clef d'argent - 1998.11
-  * [ ] Rêves d'Absinthe - L'Œil du sphynx - 2001.10
+  * [ ] Rêves d'absinthe - L'Œil du sphynx - 2001.10
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
@@ -61,7 +61,7 @@
   * [ ] Requiem #9 - Cercle d'études vampiriques - 1999.01
 * **Maillon d'une ancienne chaîne**
   * [ ] Rêves d'Innsmouth - L'Œil du sphynx - 1999.01
-  * [ ] Horrifique 29 - Editions Macabres - 2000.02
+  * [ ] Horrifique #29 - Editions Macabres - 2000.02
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Mille ans de servitude**
   * [ ] Jour de l'an 1000 - Editions Nestiveqnen - 1999.09
@@ -78,32 +78,88 @@
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 
+### 2000
+
+* **La Gorgone enfant**
+  * [ ] Chimères #46 - Chimères - 2000.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Tous des anges**
+  * [ ] Jour de l'an 2000 - Editions Nestiveqnen - 2000.05
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Un Miroir de galets**
+  * [ ] Faeries #1 - Editions Nestiveqnen - 2000.05
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Indélébile**
+  * [ ] Chasseurs de rêves #5 - Chasseurs de rêves - 2000.07
+* **Couleurs d'automne**
+  * [ ] Les Vagabonds du rêve #1 - Editions Oxalis - 2000.10
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Le Lied d'intransigeance**
+  * [ ] Hauteurs #2 - Maison des auteurs du Hainaut - 2000.06
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+
+### 2001
+
+* **Sous l'aiguille**
+* **Sur la Terre comme au Ciel**
+  * [ ] Présence d'Esprits #26 - Club Présence d'Esprits - 2001
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Il ne neige pas à Frontier**
+* **Assassin** - Comme un reflet dans une eau morte
+  * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Lithophanie**
+* **À moitié malade des ombres**
+* **Là où changent les formes**
+
+### 2002
+
+* **Xolotl**
+  * [ ] Étoiles vives #9 - Le Bélial' - 2002
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Born with a star**
+* **Arcane I / Le Magicien**
+* **Différentes couleurs : Cinq prières japonaises**
+* **Comme marchent les ombres**
+* **Nos funérailles**
+  * [ ] Ailleurs #4 - 002
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Dialogue avec les ombres**
+  * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002.08
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+
 ### Après
 
 * **A Lost Song**
 * **A New Dawn**
-* **Arcane I / Le Magicien**
-* **Assassin** - Comme un reflet dans une eau morte
-  * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Blind Code**
 * **Bloodflowers**
 * **Bubblegum Butterflies**
 * **Béni soit l'Exil**
 * **Canto I**
 * **Canto XI**
-* **Comme marchent les Ombres**
 * **Comme une Balle**
-* **Couleurs d'Automne**
 * **D'une étoile à l'autre**
 * **De l'Or dont on fait les Âges (la Reine, en son privé)**
 * **De la Gorgone, à sa fille (recette de salade composée)**
 * **De Nuit, de glace, d'argent**
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
-* **Dialogue avec les ombres**
-  * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
-* **Différentes couleurs : Cinq prières japonaises**
 * **Don't**
 * **Désaccordé (tuned in DAGDAD)**
 * **Emblemata**
@@ -116,8 +172,6 @@
 * **G.**
 * **Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi**
 * **Gone Fading Everything**
-* **Il ne neige pas à Frontier**
-* **Indélébile**
 * **Kay**
 * **L'Encre, le Sang**
 * **L'Ordalie des Matriarches**
@@ -126,28 +180,19 @@
 * **La Ballade des Égarés**
 * **La Faille Céleste**
 * **La Faveur de la Nuit**
-* **La Gorgone Enfant**
 * **La Loi du Flocon**
 * **Le Cœur de l'Hiver**
-* **Le Lied d'intransigeance**
-  * [ ] Hauteurs #2 - Maison des auteurs du Hainaut - 2000.06
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Le Maître de Kodo**
 * **Le rêve en la cité**
 * **Le Vent dans l'Ouvroir**
 * **Le Vin des Naufrageurs**
 * **Les Promesses du Fleuve**
 * **Leçon de Clartés**
-* **Lithophanie**
 * **Lumière Noire**
-* **Là où changent les formes**
 * **Macula Lutea**
 * **Magickal**
 * **Magnificat**
 * **Never**
-* **Nos Funérailles**
-  * [ ] Ailleurs #4 - 002
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Over Dry Lands (Comment la Nef Vint au Fou)**
 * **Passing By**
 * **Point du jour**
@@ -155,18 +200,12 @@
 * **Runaway Train**
 * **Sfrixàda, l'Empreinte, dans la cendre**
 * **Shinear**
-* **Sous l'Aiguille**
 * **Stone (the Song of Herne)**
-* **Sur la Terre comme au Ciel**
-  * [ ] Présence d'Esprits #26 - Club Présence d'Esprits - 2001
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Tanka-Coma**
 * **The Cat & the Choker**
 * **The Passenger**
-* **Tous des Anges**
 * **Trois fois**
 * **Trolleriet**
-* **Un Miroir de Galets**
 * **Un Parfum de Malicore**
 * **Under the Ivy**
 * **Une Hécate et son chien**
@@ -177,11 +216,7 @@
 * **Voix de Sève**
 * **Why?** (message tracé sur un miroir)
 * **Winter Wonderland Inc.**
-* **Xolotl**
-  * [ ] Étoiles vives #9 - Le Bélial' - 2002
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **À Bout de Course**
 * **À l'Image de la Nuit**
 * **À l'Ombre des Ifs foudroyés**
-* **À Moitié Malade des Ombres**
 * **À travers la fumée**
