@@ -31,6 +31,8 @@
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 2913939473
   * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 2913939465
 * **Fovéa** (errortype I)
+  * [ ] Erythropsine edit
+  * [ ] Chloropsine mix
 * **Sacra I** - Aucun coeur inhumain
   * [ ] Edition regular - Nitchevo Factory - 2016.02 - 9791094902035
 * **Sacra II** - Nulle âme invincible
