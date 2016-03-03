@@ -37,3 +37,18 @@
   * [ ] Edition regular - Nitchevo Factory - 2016.03
 
 ## Nouvelles
+* A travers la fumée
+* Lithophanie
+* Là où changent les formes
+* Le rêve en la cité
+* Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi
+* Trois fois
+* Under the Ivy
+* Magnificat
+* Lumière Noire
+* Sfrixàda, l'Empreinte, dans la cendre
+* D'une étoile à l'autre
+* Béni soit l'Exil
+* Le Maître de Kodo
+* The Passenger
+* Emblemata
