@@ -119,6 +119,7 @@
 * **The Passenger**
 * **Tous des Anges**
 * **Trois fois**
+* **Trolleriet**
 * **Un Miroir de Galets**
 * **Un Parfum de Malicore**
 * **Under the Ivy**
@@ -126,7 +127,7 @@
 * **Vado Mori**
 * **Vertigo Eyes**
 * **Voix de Sève**
-* **Why?**
+* **Why?** (message tracé sur un miroir)
 * **Winter Wonderland Inc.**
 * **Xolotl**
 * **À Bout de Course**
