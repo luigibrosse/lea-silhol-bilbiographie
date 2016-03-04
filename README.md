@@ -101,6 +101,9 @@
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Le Lied d'intransigeance**
+  * [ ] Hauteurs #2 - Maison des auteurs du Hainaut - 2000.06
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Indélébile**
   * [ ] Chasseurs de rêves #5 - Chasseurs de rêves - 2000.07
 * **Couleurs d'automne**
@@ -110,16 +113,13 @@
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
-* **Le Lied d'intransigeance**
-  * [ ] Hauteurs #2 - Maison des auteurs du Hainaut - 2000.06
+* **Sur la Terre comme au Ciel**
+  * [ ] Présence d'Esprits #26 - Club Présence d'Esprits - 2000.12
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 
 ### 2001
 
 * **Sous l'aiguille**
-* **Sur la Terre comme au Ciel**
-  * [ ] Présence d'Esprits #26 - Club Présence d'Esprits - 2001
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Il ne neige pas à Frontier**
 * **Assassin** - Comme un reflet dans une eau morte
   * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001
@@ -144,6 +144,16 @@
   * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002.08
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 
+### 2003
+
+* **Une Hécate et son chien**
+  * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **L'Ordalie des Matriarches**
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **De Nuit, de glace, d'argent**
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+
 ### Après
 
 * **A Lost Song**
@@ -155,12 +165,10 @@
 * **Canto I**
 * **Canto XI**
 * **Comme une Balle**
+* **Don't**
 * **D'une étoile à l'autre**
 * **De l'Or dont on fait les Âges (la Reine, en son privé)**
 * **De la Gorgone, à sa fille (recette de salade composée)**
-* **De Nuit, de glace, d'argent**
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
-* **Don't**
 * **Désaccordé (tuned in DAGDAD)**
 * **Emblemata**
 * **En Tissant la Trame**
@@ -174,8 +182,6 @@
 * **Gone Fading Everything**
 * **Kay**
 * **L'Encre, le Sang**
-* **L'Ordalie des Matriarches**
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **L'Étoile, au Matin**
 * **La Ballade des Égarés**
 * **La Faille Céleste**
@@ -208,9 +214,6 @@
 * **Trolleriet**
 * **Un Parfum de Malicore**
 * **Under the Ivy**
-* **Une Hécate et son chien**
-  * [ ] Chimères, 15 récits d'animaux fantastiques - Editions de l’Oxymore - 2003
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Vado Mori**
 * **Vertigo Eyes**
 * **Voix de Sève**
