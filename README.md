@@ -120,11 +120,21 @@
 ### 2001
 
 * **Sous l'aiguille**
+  * [ ]
+  * [ ] Tatouages - Les Belles lettres - 2005.09
+  * [ ] version anglaise
 * **Il ne neige pas à Frontier**
+  * [ ] Emblèmes #2 - Editions de l’Oxymore - 2001.05
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Assassin** - Comme un reflet dans une eau morte
-  * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001
+  * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001.07
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
 * **Lithophanie**
+  * [ ] Khimaira #12 - Khimaira - 2001.10
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **À moitié malade des ombres**
 * **Là où changent les formes**
 
