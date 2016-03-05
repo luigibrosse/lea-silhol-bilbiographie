@@ -116,13 +116,74 @@
 * **Sur la Terre comme au Ciel**
   * [ ] Présence d'Esprits #26 - Club Présence d'Esprits - 2000.12
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Quelque chose de fragile**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Les Promesses du fleuve**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **En Tissant la trame**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **À l'Ombre des ifs foudroyés**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Le Cœur de l'hiver**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Frost (car s'en viennent les Mille Ans de Froid)**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **La Loi du flocon**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **Runaway Train**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **À l'Image de la nuit**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+* **La Faille céleste**
+  * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+
 
 ### 2001
 
 * **Sous l'aiguille**
-  * [ ]
+  * [ ] Elegy #14 - Editions CPES - 2001.02
   * [ ] Tatouages - Les Belles lettres - 2005.09
-  * [ ] version anglaise
+  * [ ] Outsiders - ROC Trade - 2005.10 - version anglaise ayant pour titre "Under the Needle"
 * **Il ne neige pas à Frontier**
   * [ ] Emblèmes #2 - Editions de l’Oxymore - 2001.05
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
@@ -136,19 +197,29 @@
   * [ ] Khimaira #12 - Khimaira - 2001.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **À moitié malade des ombres**
+*  [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
 * **Là où changent les formes**
+  * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
 
 ### 2002
 
 * **Xolotl**
-  * [ ] Étoiles vives #9 - Le Bélial' - 2002
+  * [ ] Étoiles vives #9 - Le Bélial' - 2002.03
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Born with a star**
+  * [ ] en ligne sur oxymore.com (collectif "Auteurs Sans Fascisme") - 2002.04 
 * **Arcane I / Le Magicien**
+  * [ ] Elegy #22 - Editions CPES - 2002.06
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Différentes couleurs : Cinq prières japonaises**
+  * [ ] Emblèmes #6 - Editions de l’Oxymore - 2002.08
 * **Comme marchent les ombres**
+  * [ ] Traverses, l'anthologie de fantasy urbaine - 2002.07
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Nos funérailles**
-  * [ ] Ailleurs #4 - 002
+  * [ ] Ailleurs #4 - Ailleurs - 2002.10
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **Dialogue avec les ombres**
   * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002.08
@@ -175,34 +246,39 @@
 * **Canto I**
 * **Canto XI**
 * **Comme une Balle**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Don't**
 * **D'une étoile à l'autre**
 * **De l'Or dont on fait les Âges (la Reine, en son privé)**
 * **De la Gorgone, à sa fille (recette de salade composée)**
 * **Désaccordé (tuned in DAGDAD)**
 * **Emblemata**
-* **En Tissant la Trame**
 * **Encordés à la Nuit**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Faire Surface**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Father Lucifer**
 * **Fragarach (the Answerer)**
-* **Frost (car s'en viennent les Mille Ans de Froid)**
 * **G.**
 * **Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi**
 * **Gone Fading Everything**
 * **Kay**
 * **L'Encre, le Sang**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **L'Étoile, au Matin**
 * **La Ballade des Égarés**
-* **La Faille Céleste**
+  * [ ] Emblèmes #12 2004
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **La Faveur de la Nuit**
-* **La Loi du Flocon**
-* **Le Cœur de l'Hiver**
 * **Le Maître de Kodo**
 * **Le rêve en la cité**
 * **Le Vent dans l'Ouvroir**
 * **Le Vin des Naufrageurs**
-* **Les Promesses du Fleuve**
 * **Leçon de Clartés**
 * **Lumière Noire**
 * **Macula Lutea**
@@ -212,8 +288,6 @@
 * **Over Dry Lands (Comment la Nef Vint au Fou)**
 * **Passing By**
 * **Point du jour**
-* **Quelque Chose de Fragile**
-* **Runaway Train**
 * **Sfrixàda, l'Empreinte, dans la cendre**
 * **Shinear**
 * **Stone (the Song of Herne)**
@@ -225,11 +299,16 @@
 * **Un Parfum de Malicore**
 * **Under the Ivy**
 * **Vado Mori**
+  * [ ] Emblèmes 9 2003.05
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Vertigo Eyes**
 * **Voix de Sève**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Why?** (message tracé sur un miroir)
 * **Winter Wonderland Inc.**
 * **À Bout de Course**
-* **À l'Image de la Nuit**
-* **À l'Ombre des Ifs foudroyés**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **À travers la fumée**
