@@ -146,7 +146,7 @@
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
-* **Frost (car s'en viennent les Mille Ans de Froid)**
+* **Frost** -  (car s'en viennent les mille ans de froid)
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
@@ -212,17 +212,17 @@
   * [ ] Elegy #22 - Editions CPES - 2002.06
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
-* **Différentes couleurs : Cinq prières japonaises**
-  * [ ] Emblèmes #6 - Editions de l’Oxymore - 2002.08
 * **Comme marchent les ombres**
   * [ ] Traverses, l'anthologie de fantasy urbaine - 2002.07
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
-* **Nos funérailles**
-  * [ ] Ailleurs #4 - Ailleurs - 2002.10
-  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Différentes couleurs : Cinq prières japonaises**
+  * [ ] Emblèmes #6 - Editions de l’Oxymore - 2002.08
 * **Dialogue avec les ombres**
   * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002.08
+  * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Nos funérailles**
+  * [ ] Ailleurs #4 - Ailleurs - 2002.10
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 
 ### 2003
@@ -275,6 +275,29 @@
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 
+### 2005
+
+* **Magickal**
+* **The Cat & the Choker**
+* **Trois fois**
+
+### 2006
+
+* **Le rêve en la cité**
+
+### 2007
+
+* **Winter Wonderland Inc.**
+* **Point du jour**
+* **Passing By**
+* **Emblemata**
+
+### 2008
+
+* **Désaccordé (tuned in DAGDAD)**
+* **Shinear**
+* **De la Gorgone, à sa fille (recette de salade composée)**
+
 ### Après
 
 * **A Lost Song**
@@ -288,9 +311,6 @@
 * **Don't**
 * **D'une étoile à l'autre**
 * **De l'Or dont on fait les Âges (la Reine, en son privé)**
-* **De la Gorgone, à sa fille (recette de salade composée)**
-* **Désaccordé (tuned in DAGDAD)**
-* **Emblemata**
 * **Father Lucifer**
 * **Fragarach (the Answerer)**
 * **G.**
@@ -299,25 +319,17 @@
 * **Kay**
 * **L'Étoile, au Matin**
 * **Le Maître de Kodo**
-* **Le rêve en la cité**
 * **Leçon de Clartés**
 * **Macula Lutea**
-* **Magickal**
 * **Magnificat**
 * **Never**
 * **Over Dry Lands (Comment la Nef Vint au Fou)**
-* **Passing By**
-* **Point du jour**
 * **Sfrixàda, l'Empreinte, dans la cendre**
-* **Shinear**
 * **Stone (the Song of Herne)**
 * **Tanka-Coma**
-* **The Cat & the Choker**
 * **The Passenger**
-* **Trois fois**
 * **Trolleriet**
 * **Under the Ivy**
 * **Vertigo Eyes**
 * **Why?** (message tracé sur un miroir)
-* **Winter Wonderland Inc.**
 * **À travers la fumée**
