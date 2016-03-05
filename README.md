@@ -197,7 +197,7 @@
   * [ ] Khimaira #12 - Khimaira - 2001.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **À moitié malade des ombres**
-*  [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
+  *  [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
 * **Là où changent les formes**
   * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
 
@@ -227,6 +227,8 @@
 
 ### 2003
 
+* **La Faveur de la nuit**
+  * [ ] Asphodale #2 - Imaginaires Sans Frontières - 2003.02
 * **Une Hécate et son chien**
   * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
@@ -234,6 +236,44 @@
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
 * **De Nuit, de glace, d'argent**
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
+* **Vado Mori** - (Arcane XVIII / La Lune)
+  * [ ] Emblèmes #9 - Editions de l’Oxymore - 2003.06
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Un Parfum de Malicore**
+  * [ ] Magie verte - Editions de l’Oxymore - 2003.11
+
+### 2004
+
+* **Lumière noire**
+  * [ ] French gothic - Les Belles lettres - 2004.01
+* **Le Vent dans l'ouvroir**
+  * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
+  * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+* **La Ballade des égarés**
+  * [ ] Emblèmes #12 - Editions de l’Oxymore - 2004.03
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Le Vin des naufrageurs**
+  *  [ ] Emblèmes #13 - Editions de l’Oxymore - 2004.08
+* **Faire surface** - (Arcane XX / Le Jugement)
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Comme une balle**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Encordés à la nuit** - (Arcane XII / Le Pendu)
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **À Bout de course**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **L'Encre, le sang** - (Arcane II / La Papesse)
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Voix de sève**
+  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 
 ### Après
 
@@ -245,42 +285,22 @@
 * **Béni soit l'Exil**
 * **Canto I**
 * **Canto XI**
-* **Comme une Balle**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Don't**
 * **D'une étoile à l'autre**
 * **De l'Or dont on fait les Âges (la Reine, en son privé)**
 * **De la Gorgone, à sa fille (recette de salade composée)**
 * **Désaccordé (tuned in DAGDAD)**
 * **Emblemata**
-* **Encordés à la Nuit**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
-* **Faire Surface**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Father Lucifer**
 * **Fragarach (the Answerer)**
 * **G.**
 * **Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi**
 * **Gone Fading Everything**
 * **Kay**
-* **L'Encre, le Sang**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **L'Étoile, au Matin**
-* **La Ballade des Égarés**
-  * [ ] Emblèmes #12 2004
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
-* **La Faveur de la Nuit**
 * **Le Maître de Kodo**
 * **Le rêve en la cité**
-* **Le Vent dans l'Ouvroir**
-* **Le Vin des Naufrageurs**
 * **Leçon de Clartés**
-* **Lumière Noire**
 * **Macula Lutea**
 * **Magickal**
 * **Magnificat**
@@ -296,19 +316,8 @@
 * **The Passenger**
 * **Trois fois**
 * **Trolleriet**
-* **Un Parfum de Malicore**
 * **Under the Ivy**
-* **Vado Mori**
-  * [ ] Emblèmes 9 2003.05
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Vertigo Eyes**
-* **Voix de Sève**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **Why?** (message tracé sur un miroir)
 * **Winter Wonderland Inc.**
-* **À Bout de Course**
-  * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
-  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 * **À travers la fumée**
