@@ -275,11 +275,17 @@
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 
+---
+
 ### 2005
 
 * **Magickal**
 * **The Cat & the Choker**
+  * [ ] Emblèmes #15 - Editions de l’Oxymore - 2005.08
+  * [ ]Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
 * **Trois fois**
+  *  [ ] Fiction - tome 2 - Les Moutons électriques - 2005.10
 
 ### 2006
 
@@ -303,6 +309,8 @@
 * **A Lost Song**
 * **A New Dawn**
 * **Blind Code**
+  * [ ]Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
 * **Bloodflowers**
 * **Bubblegum Butterflies**
 * **Béni soit l'Exil**
@@ -328,7 +336,6 @@
 * **Stone (the Song of Herne)**
 * **Tanka-Coma**
 * **The Passenger**
-* **Trolleriet**
 * **Under the Ivy**
 * **Vertigo Eyes**
 * **Why?** (message tracé sur un miroir)
