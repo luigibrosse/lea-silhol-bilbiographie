@@ -5,6 +5,7 @@
 ## Romans
 
 * **La Sève et le givre**
+  * Prix Merlin du roman 2003
   * [ ] Edition régulière - Editions de l’Oxymore - 2002.10 - 9782913939202
   * [ ] Edition fission - Editions de l’Oxymore - 2002.10 - 291393921X
   * [ ] Poche - Editions du Seuil, Points - 2006.05 - 2020851598
@@ -28,6 +29,7 @@
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.01 - 9782913939370
   * [ ] Edition fission - Editions de l’Oxymore - 2004.01 - 9782913939387
 * **Musiques de la Frontière**
+  * Prix Imaginales de la nouvelle 2005
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 9782913939497
   * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 2913939465
 * **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
