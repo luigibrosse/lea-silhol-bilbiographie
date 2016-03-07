@@ -11,7 +11,7 @@
   * [ ] Club - France Loisirs - 2004.09 - 2744174343
 * **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
-* **Avant l’hiver** - Architectonique des Clartés
+* **Avant l'hiver** - Architectonique des Clartés
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Possession Point**
@@ -150,6 +150,8 @@
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239  
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 * **La Loi du flocon**
@@ -170,6 +172,8 @@
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 * **La Faille céleste**
@@ -178,7 +182,6 @@
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02  
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
-
 
 ### 2001
 
@@ -199,7 +202,9 @@
   * [ ] Khimaira #12 - Khimaira - 2001.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **À moitié malade des ombres**
-  *  [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
+  * [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Là où changent les formes**
   * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
@@ -232,6 +237,8 @@
 
 * **La Faveur de la nuit**
   * [ ] Asphodale #2 - Imaginaires Sans Frontières - 2003.02
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne dans "Béni soit l'exil"
 * **Une Hécate et son chien**
   * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
@@ -303,6 +310,8 @@
 
 * **Passing By**
   * [ ] Khimaira #9 - Spootnik - 2007.01
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Point du jour**
   * [ ] Fées Divers #1 - Le Souffle d'Éole - 2007.04
 * **Emblemata**
@@ -363,6 +372,24 @@
   * [ ] Babel Tour - collectif Université Paris Sorbonne - 2008.03
 * **Désaccordé (tuned in DAGDAD)**
   * [ ] De Brocéliande en Avalon - Terre de brume - 2008.04
+* **Over Dry Lands** - (Comment la nef Vint au fou)
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+* **De l'Or dont on fait les Âges (la Reine, en son privé)**
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+* **Stone** (the Song of Herne)
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+* **Leçon de Clartés**
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+* **Fragarach** (the Answerer)
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+* **A New Dawn**
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **De la Gorgone, à sa fille (recette de salade composée)**
   * [ ] Art Book Khimaira #1 Les Enfants de la chimère - Spootnik - 2008.10
 
@@ -386,18 +413,6 @@
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
 * **The Passenger**
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
-
-
-* **A New Dawn**
-* **De l'Or dont on fait les Âges (la Reine, en son privé)**
-* **Fragarach (the Answerer)**
-* **Leçon de Clartés**
-* **Over Dry Lands (Comment la Nef Vint au Fou)**
-* **Stone (the Song of Herne)**
-* **Tanka-Coma**
-
-
-
 
 ## Poésie
 
