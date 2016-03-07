@@ -11,7 +11,7 @@
   * [ ] Club - France Loisirs - 2004.09 - 2744174343
 * **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
-* **Avant l’hiver**
+* **Avant l’hiver** - Architectonique des Clartés
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Possession Point**
@@ -30,7 +30,7 @@
 * **Musiques de la Frontière**
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 9782913939497
   * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 2913939465
-* **Fovéa** - errortype I
+* **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
   * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
   * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
 * **Sacra I** - Aucun cœur inhumain
@@ -174,6 +174,8 @@
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 * **La Faille céleste**
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02  
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 
@@ -200,6 +202,7 @@
   *  [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
 * **Là où changent les formes**
   * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 
 ### 2002
 
@@ -229,6 +232,7 @@
 
 * **La Faveur de la nuit**
   * [ ] Asphodale #2 - Imaginaires Sans Frontières - 2003.02
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne dans "Béni soit l'exil"
 * **Une Hécate et son chien**
   * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
@@ -247,6 +251,7 @@
 
 * **Lumière noire**
   * [ ] French gothic - Les Belles lettres - 2004.01
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
 * **Le Vent dans l'ouvroir**
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
@@ -282,61 +287,119 @@
 * **Magickal**
 * **The Cat & the Choker**
   * [ ] Emblèmes #15 - Editions de l’Oxymore - 2005.08
-  * [ ]Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
 * **Trois fois**
-  *  [ ] Fiction - tome 2 - Les Moutons électriques - 2005.10
+  * [ ] Fiction - tome 2 - Les Moutons électriques - 2005.10
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
 
 ### 2006
 
 * **Le rêve en la cité**
+  * [ ] Elric et la porte des mondes - Fleuve noir - 2006.06
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 
 ### 2007
 
-* **Winter Wonderland Inc.**
-* **Point du jour**
 * **Passing By**
+  * [ ] Khimaira #9 - Spootnik - 2007.01
+* **Point du jour**
+  * [ ] Fées Divers #1 - Le Souffle d'Éole - 2007.04
 * **Emblemata**
+  * [ ] Interfictions: an anthology of interstitial writing - Interstitial Arts Foundation - 2007.04 - version anglaise
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03- version française
+* **Winter Wonderland Inc.**
+  * [ ] Les Noëls électriques - Les Moutons électriques - 2007.10
 
 ### 2008
 
-* **Désaccordé (tuned in DAGDAD)**
-* **Shinear**
-* **De la Gorgone, à sa fille (recette de salade composée)**
-
-### Après
-
-* **A Lost Song**
-* **A New Dawn**
-* **Blind Code**
-  * [ ]Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
-  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
-* **Bloodflowers**
-* **Bubblegum Butterflies**
-* **Béni soit l'Exil**
-* **Canto I**
-* **Canto XI**
-* **Don't**
-* **D'une étoile à l'autre**
-* **De l'Or dont on fait les Âges (la Reine, en son privé)**
-* **Father Lucifer**
-* **Fragarach (the Answerer)**
-* **G.**
-* **Gold, Chant du filigrane de la fracture, sur la vague d'un Kintsugi**
-* **Gone Fading Everything**
-* **Kay**
-* **L'Étoile, au Matin**
-* **Le Maître de Kodo**
-* **Leçon de Clartés**
+* **Tanka-Coma**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
 * **Macula Lutea**
-* **Magnificat**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - Inclut des passages de "Différentes couleurs"
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - Inclut des passages de "Différentes couleurs"
+* **L'Étoile, au matin**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - remixé dans "D'une étoile à l'autre"
+* **Blind Code**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **G.**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
 * **Never**
-* **Over Dry Lands (Comment la Nef Vint au Fou)**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Don't** - (message taggué sur un mur)
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **A Lost Song**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Bubblegum Butterflies** - (Le vacarme du 'pop' dans le grand car-crash du time)
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Why?** (message tracé sur un miroir)
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Bloodflowers**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Kay** - (a grown up song)
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 
+* **Father Lucifer**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Vertigo Eyes** - (leçon de vertige, dans l'ascenseur)
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Gone Fading Everything**
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+* **Shinear**
+  * [ ] Babel Tour - collectif Université Paris Sorbonne - 2008.03
+* **Désaccordé (tuned in DAGDAD)**
+  * [ ] De Brocéliande en Avalon - Terre de brume - 2008.04
+* **De la Gorgone, à sa fille (recette de salade composée)**
+  * [ ] Art Book Khimaira #1 Les Enfants de la chimère - Spootnik - 2008.10
+
+### 2016
+
+* **À travers la fumée**
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
+* **Gold** - Chant du filigrane de la fracture, sur la vague d'un Kintsugi
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
+* **Under the Ivy**
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02 
+* **Magnificat**
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02  
 * **Sfrixàda, l'Empreinte, dans la cendre**
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
+* **D'une étoile à l'autre**
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - remix de "L'étoile au matin"
+* **Béni soit l'exil**
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne de "La Faveur de la nuit"
+* **Le Maître de Kodo**
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
+* **The Passenger**
+  * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
+
+
+* **A New Dawn**
+* **De l'Or dont on fait les Âges (la Reine, en son privé)**
+* **Fragarach (the Answerer)**
+* **Leçon de Clartés**
+* **Over Dry Lands (Comment la Nef Vint au Fou)**
 * **Stone (the Song of Herne)**
 * **Tanka-Coma**
-* **The Passenger**
-* **Under the Ivy**
-* **Vertigo Eyes**
-* **Why?** (message tracé sur un miroir)
-* **À travers la fumée**
+
+
+
+
+## Poésie
+
+* **Canto I**
+* **Canto XI**
