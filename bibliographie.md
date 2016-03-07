@@ -1,5 +1,7 @@
 # Bibliographie de Léa Silhol
 
+v1.0 - 2016.03.07
+
 ## Romans
 
 * **La Sève et le givre**
@@ -390,7 +392,7 @@
 * **A New Dawn**
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **De la Gorgone, à sa fille (recette de salade composée)**
+* **De la Gorgone, à sa fille** - (recette de salade composée)
   * [ ] Art Book Khimaira #1 Les Enfants de la chimère - Spootnik - 2008.10
 
 ### 2016
@@ -417,4 +419,6 @@
 ## Poésie
 
 * **Canto I**
+  * [ ] Requiem #1 - Cercle d'études vampiriques - 1996.10
 * **Canto XI**
+  * [ ] Requiem #5 - Cercle d'études vampiriques - 1997.10
