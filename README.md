@@ -11,7 +11,7 @@
   * [ ] Club - France Loisirs - 2004.09 - 2744174343
 * **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
-* **Avant l'hiver** - Architectonique des Clartés
+* **Avant l'hiver** - Architectonique des clartés - roman en lambeaux
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Possession Point**
@@ -287,22 +287,21 @@
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
 
----
-
 ### 2005
 
 * **Magickal**
+  * [ ] La Liberté de l'Est (quotidien) - 2005.05
 * **The Cat & the Choker**
   * [ ] Emblèmes #15 - Editions de l’Oxymore - 2005.08
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
 * **Trois fois**
-  * [ ] Fiction - tome 2 - Les Moutons électriques - 2005.10
+  * [ ] Fiction 2 - Les Moutons électriques - 2005.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
 
 ### 2006
 
-* **Le rêve en la cité**
+* **Le Rêve en la cité**
   * [ ] Elric et la porte des mondes - Fleuve noir - 2006.06
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 
@@ -310,8 +309,9 @@
 
 * **Passing By**
   * [ ] Khimaira #9 - Spootnik - 2007.01
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482 - version augmentée
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239 - version augmentée
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239 - version originale
 * **Point du jour**
   * [ ] Fées Divers #1 - Le Souffle d'Éole - 2007.04
 * **Emblemata**
@@ -372,19 +372,19 @@
   * [ ] Babel Tour - collectif Université Paris Sorbonne - 2008.03
 * **Désaccordé (tuned in DAGDAD)**
   * [ ] De Brocéliande en Avalon - Terre de brume - 2008.04
-* **Over Dry Lands** - (Comment la nef Vint au fou)
+* **Over Dry Lands** - (Comment la nef vint au fou)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **De l'Or dont on fait les Âges (la Reine, en son privé)**
+* **De l'Or dont on fait les âges ** - (La Reine, en son privé)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **Stone** (the Song of Herne)
+* **Stone** - (The Song of Herne)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **Leçon de Clartés**
+* **Leçon de clartés**
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **Fragarach** (the Answerer)
+* **Fragarach** - (The Answerer)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **A New Dawn**
