@@ -375,7 +375,7 @@
 * **Over Dry Lands** - (Comment la nef vint au fou)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
-* **De l'Or dont on fait les âges ** - (La Reine, en son privé)
+* **De l'Or dont on fait les âges** - (La Reine, en son privé)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Stone** - (The Song of Herne)
