@@ -28,4 +28,4 @@ Vous pouvez faire de même pour me soumettre des améliorations ou des suggestio
 
 ## License
 
-Cette bibliographie est disponible sous CC0 1.0 universel - Transfert dans le Domaine Public, comme indiqué dans la fichier de licence. Un résumé en français de ce que cela implique est disponible à [l'adresse suivante](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). La traduction en français de la licence est disponible à [l'adresse suivante](Thttps://creativecommons.org/publicdomain/zero/1.0/legalcode.fr).
+Cette bibliographie est disponible sous CC0 1.0 universel - Transfert dans le Domaine Public, comme indiqué dans le fichier de licence. Un résumé en français de ce que cela implique est disponible à [l'adresse suivante](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). La traduction en français de la licence est disponible à [l'adresse suivante](Thttps://creativecommons.org/publicdomain/zero/1.0/legalcode.fr).
