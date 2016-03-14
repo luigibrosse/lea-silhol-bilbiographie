@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.0 - 2016.03.07
+v1.01 - 2016.03.14
 
 ## Romans
 
@@ -152,8 +152,8 @@ v1.0 - 2016.03.07
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239  
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 * **La Loi du flocon**
@@ -174,8 +174,8 @@ v1.0 - 2016.03.07
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
 * **La Faille céleste**
@@ -205,8 +205,8 @@ v1.0 - 2016.03.07
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **À moitié malade des ombres**
   * [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **Là où changent les formes**
   * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
@@ -239,8 +239,8 @@ v1.0 - 2016.03.07
 
 * **La Faveur de la nuit**
   * [ ] Asphodale #2 - Imaginaires Sans Frontières - 2003.02
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne dans "Béni soit l'exil"
 * **Une Hécate et son chien**
   * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
@@ -311,9 +311,9 @@ v1.0 - 2016.03.07
 
 * **Passing By**
   * [ ] Khimaira #9 - Spootnik - 2007.01
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482 - version augmentée
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239 - version augmentée
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239 - version originale
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - version augmentée
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - version augmentée
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - version originale
 * **Point du jour**
   * [ ] Fées Divers #1 - Le Souffle d'Éole - 2007.04
 * **Emblemata**
@@ -328,8 +328,8 @@ v1.0 - 2016.03.07
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
 * **Macula Lutea**
-  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - Inclut des passages de "Différentes couleurs"
-  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - Inclut des passages de "Différentes couleurs"
+  * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
+  * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
 * **L'Étoile, au matin**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
@@ -375,23 +375,23 @@ v1.0 - 2016.03.07
 * **Désaccordé (tuned in DAGDAD)**
   * [ ] De Brocéliande en Avalon - Terre de brume - 2008.04
 * **Over Dry Lands** - (Comment la nef vint au fou)
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **De l'Or dont on fait les âges** - (La Reine, en son privé)
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **Stone** - (The Song of Herne)
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **Leçon de clartés**
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **Fragarach** - (The Answerer)
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **A New Dawn**
-  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
-  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
+  * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
 * **De la Gorgone, à sa fille** - (recette de salade composée)
   * [ ] Art Book Khimaira #1 Les Enfants de la chimère - Spootnik - 2008.10
 
