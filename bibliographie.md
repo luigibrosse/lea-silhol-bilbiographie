@@ -1,17 +1,18 @@
 # Bibliographie de Léa Silhol
 
-v1.01 - 2016.03.14
+v1.02 - 2016.03.15
 
 ## Romans
 
 * **La Sève et le givre**
   * Prix Merlin du roman 2003
   * [ ] Edition régulière - Editions de l’Oxymore - 2002.10 - 9782913939202
-  * [ ] Edition fission - Editions de l’Oxymore - 2002.10 - 291393921X
-  * [ ] Poche - Editions du Seuil, Points - 2006.05 - 2020851598
-  * [ ] Club - France Loisirs - 2004.09 - 2744174343
+  * [ ] Edition fission - Editions de l’Oxymore - 2002.10 - 9782913939219
+  * [ ] Poche - Editions du Seuil, Points - 2006.05 - 9782020851596
+  * [ ] Club - France Loisirs - 2004.09 - 9782744174346
 * **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
+  * [ ] Edition collector - Coffret comprennant l'édition régulière plus l'entretien "Alchemical Hooligan"
 * **Avant l'hiver** - Architectonique des clartés - roman en lambeaux
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
@@ -24,14 +25,14 @@ v1.01 - 2016.03.14
   * [ ] Edition regulière - Nitchevo Factory - 2015.04 - 9791094902004
   * [ ] Edition augmentée - Nitchevo Factory - 2015.09 - 9791094902011
 * **Conversation avec la Mort**
-  * [ ] Edition régulière - Editions de l’Oxymore - 2003.05 - 2913939333
+  * [ ] Edition régulière - Editions de l’Oxymore - 2003.05 - 9782913939332
 * **La Tisseuse** - Contes de Fées, Contes de Failles
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.01 - 9782913939370
   * [ ] Edition fission - Editions de l’Oxymore - 2004.01 - 9782913939387
 * **Musiques de la Frontière**
   * Prix Imaginales de la nouvelle 2005
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 9782913939497
-  * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 2913939465
+  * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 9782913939462
 * **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
   * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
   * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
@@ -422,3 +423,17 @@ v1.01 - 2016.03.14
   * [ ] Requiem #1 - Cercle d'études vampiriques - 1996.10
 * **Canto XI**
   * [ ] Requiem #5 - Cercle d'études vampiriques - 1997.10
+ 
+## Audio
+
+* **Féerie: Images d'Autre-Monde**
+  * Série de courtes nouvelles pour Radio France sur le thème du folklore féerique (2004)
+  * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09 - repris dans "Voix de fées"
+* **Song(s) 4 Fay(s)**
+  * Mini album CD de 6 titres composé par PFR sur "Musiques de la Frontière". Paroles de L. Silhol sur "The Road so Long"
+  * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+* **Alchemical Hooligan**
+  * Entretien avec Natacha Giordano
+  * [ ] La Glace et la Nuit I - Edition collector - Les Moutons électriques - 2007.04 - 9782915793291
+* **Down in Fovéa**
+  * Mise en musique du teaser de "Fovéa" par Done By Mirrors, disponible sur [myspace](https://myspace.com/donebymirrors/music/song/down-in-fovea-9431723-9232907)
