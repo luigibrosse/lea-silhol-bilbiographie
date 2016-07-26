@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.02 - 2016.03.15
+v1.03 - 2016.07.26
 
 ## Romans
 
@@ -18,8 +18,10 @@ v1.02 - 2016.03.15
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
 * **Possession Point**
   * [ ] Pure edit - Nitchevo Factory - 2015.10 - 9791094902028
+* **Sous le lierre**
+  * [ ] Edition régulière - Nitchevo Factory - 2016.05 - 9791094902059 - version roman de "Under the Ivy"
 
-## Recueils de nouvelles
+## Recueils
 * **Contes de la Tisseuse** - Cinq saisons et un élément
   * [ ] Edition regulière - Editions Nestiveqnen - 2000.12 - 9782910899264
   * [ ] Edition regulière - Nitchevo Factory - 2015.04 - 9791094902004
@@ -36,10 +38,10 @@ v1.02 - 2016.03.15
 * **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
   * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
   * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
-* **Sacra I** - Aucun cœur inhumain
+* **Sacra, Parfums d'Isenne et d'ailleurs I** - Aucun cœur inhumain
   * [ ] Edition regular - Nitchevo Factory - 2016.02 - 9791094902035
-* **Sacra II** - Nulle âme invincible
-  * [ ] Edition regular - Nitchevo Factory - 2016.03
+* **Sacra, Parfums d'Isenne et d'ailleurs II** - Nulle âme invincible
+  * [ ] Edition regular - Nitchevo Factory - 2016.04 - 9791094902042
 
 ## Nouvelles
 
@@ -403,7 +405,8 @@ v1.02 - 2016.03.15
 * **Gold** - Chant du filigrane de la fracture, sur la vague d'un Kintsugi
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
 * **Under the Ivy**
-  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02 
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
+  * [ ] Sous le lierre - Edition régulière - Nitchevo Factory - 2016.05 - version roman
 * **Magnificat**
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02  
 * **Sfrixàda, l'Empreinte, dans la cendre**
