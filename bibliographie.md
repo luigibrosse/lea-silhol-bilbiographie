@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.03 - 2016.07.26
+v1.04 - 2017.04.03
 
 ## Romans
 
@@ -35,6 +35,7 @@ v1.03 - 2016.07.26
   * Prix Imaginales de la nouvelle 2005
   * [ ] Edition régulière - Editions de l’Oxymore - 2004.11 - 9782913939497
   * [ ] Edition fission - Editions de l’Oxymore - 2004.11 - 9782913939462
+  * [ ] Edition grand format - Nitchevo Factory - 2017.04 - 9791094902073 - nouvelle introduction
 * **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
   * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
   * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
@@ -173,6 +174,7 @@ v1.03 - 2016.07.26
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **À l'Image de la nuit**
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
@@ -198,6 +200,7 @@ v1.03 - 2016.07.26
   * [ ] Emblèmes #2 - Editions de l’Oxymore - 2001.05
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Assassin** - Comme un reflet dans une eau morte
   * [ ] Dragons & Microchips #19 - L'Œil du sphynx - 2001.07
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
@@ -225,10 +228,12 @@ v1.03 - 2016.07.26
   * [ ] Elegy #22 - Editions CPES - 2002.06
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Comme marchent les ombres**
   * [ ] Traverses, l'anthologie de fantasy urbaine - 2002.07
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Différentes couleurs : Cinq prières japonaises**
   * [ ] Emblèmes #6 - Editions de l’Oxymore - 2002.08
 * **Dialogue avec les ombres**
@@ -256,6 +261,7 @@ v1.03 - 2016.07.26
   * [ ] Emblèmes #9 - Editions de l’Oxymore - 2003.06
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Un Parfum de Malicore**
   * [ ] Magie verte - Editions de l’Oxymore - 2003.11
 
@@ -271,26 +277,33 @@ v1.03 - 2016.07.26
   * [ ] Emblèmes #12 - Editions de l’Oxymore - 2004.03
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Le Vin des naufrageurs**
   *  [ ] Emblèmes #13 - Editions de l’Oxymore - 2004.08
 * **Faire surface** - (Arcane XX / Le Jugement)
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Comme une balle**
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Encordés à la nuit** - (Arcane XII / Le Pendu)
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **À Bout de course**
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **L'Encre, le sang** - (Arcane II / La Papesse)
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Voix de sève**
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
   * [ ] Musiques de la Frontière - Edition fission - Editions de l’Oxymore - 2004.11
+  * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 
 ### 2005
 
