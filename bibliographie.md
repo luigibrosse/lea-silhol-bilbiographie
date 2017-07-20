@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.04 - 2017.04.03
+v1.05 - 2017.07.20
 
 ## Romans
 
@@ -43,6 +43,8 @@ v1.04 - 2017.04.03
   * [ ] Edition regular - Nitchevo Factory - 2016.02 - 9791094902035
 * **Sacra, Parfums d'Isenne et d'ailleurs II** - Nulle âme invincible
   * [ ] Edition regular - Nitchevo Factory - 2016.04 - 9791094902042
+* **340 mps** - Artefacts de l’Obsession
+  * [ ] Edition regular - Nitchevo Factory - 2017.06 - 9791094902080
 
 ## Nouvelles
 
@@ -196,6 +198,7 @@ v1.04 - 2017.04.03
   * [ ] Elegy #14 - Editions CPES - 2001.02
   * [ ] Tatouages - Les Belles lettres - 2005.09
   * [ ] Outsiders - ROC Trade - 2005.10 - version anglaise ayant pour titre "Under the Needle"
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
 * **Il ne neige pas à Frontier**
   * [ ] Emblèmes #2 - Editions de l’Oxymore - 2001.05
   * [ ] Musiques de la Frontière - Edition régulière - Editions de l’Oxymore - 2004.11
@@ -313,6 +316,7 @@ v1.04 - 2017.04.03
   * [ ] Emblèmes #15 - Editions de l’Oxymore - 2005.08
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
 * **Trois fois**
   * [ ] Fiction 2 - Les Moutons électriques - 2005.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
@@ -337,6 +341,7 @@ v1.04 - 2017.04.03
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03- version française
 * **Winter Wonderland Inc.**
   * [ ] Les Noëls électriques - Les Moutons électriques - 2007.10
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
 
 ### 2008
 
@@ -432,6 +437,20 @@ v1.04 - 2017.04.03
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
 * **The Passenger**
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
+
+### 2017
+* **Wild**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+* **Folding / Unfolding**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+* **Traverser sous les roues des voitures**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+* **Faiseurs d'étoiles**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+* **Le Dernier des dark boys**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+* **Arena**
+  * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
 
 ## Poésie
 
