@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.05 - 2017.07.20
+v1.06 - 2018.09.30
 
 ## Romans
 
@@ -16,10 +16,15 @@ v1.05 - 2017.07.20
 * **Avant l'hiver** - Architectonique des clartés - roman en lambeaux
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
+  * [ ] Edition régulière - Nitchevo Factory - 2018.07 - 9791094902127 - sans postface, ni photographies
 * **Possession Point**
   * [ ] Pure edit - Nitchevo Factory - 2015.10 - 9791094902028
 * **Sous le lierre**
   * [ ] Edition régulière - Nitchevo Factory - 2016.05 - 9791094902059 - version roman de "Under the Ivy"
+* **Le Maître de kōdō** *in Hanami Sonata*
+  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134 - version roman
+* **Le Maîtresse d'échos** *in Hanami Sonata*
+  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134
 
 ## Recueils
 * **Contes de la Tisseuse** - Cinq saisons et un élément
@@ -39,12 +44,17 @@ v1.05 - 2017.07.20
 * **Fovéa** - Leçons de gravité dans un palais des glaces - errortype I
   * [ ] Erythropsine edit - Le calepin jaune éditions - 2008.02 - 9782952896610
   * [ ] Chloropsine mix - Le calepin jaune éditions - 2008.02 - 9782952896665
+  * [ ] Edition régulière - Nitchevo Factory - 2017.10 - 9791094902110 - nouvel illustrateur
 * **Sacra, Parfums d'Isenne et d'ailleurs I** - Aucun cœur inhumain
   * [ ] Edition regular - Nitchevo Factory - 2016.02 - 9791094902035
 * **Sacra, Parfums d'Isenne et d'ailleurs II** - Nulle âme invincible
   * [ ] Edition regular - Nitchevo Factory - 2016.04 - 9791094902042
 * **340 mps** - Artefacts de l’Obsession
   * [ ] Edition regular - Nitchevo Factory - 2017.06 - 9791094902080
+* **Navigator** précédé de Tracés de feu (sous la peau)
+  * [ ] Edition régulière - Nitchevo Factory - 2017.08 - 9791094902103
+* **Hanami Sonata** - Seppenko monogatari II
+  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134
 
 ## Nouvelles
 
@@ -62,6 +72,7 @@ v1.05 - 2017.07.20
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 
 ### 1999 
 
@@ -78,6 +89,7 @@ v1.05 - 2017.07.20
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Le Lys noir**
   * [ ] Codex Atlanticus #8 - La Clef d'argent - 1999.12
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
@@ -102,6 +114,7 @@ v1.05 - 2017.07.20
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Un Miroir de galets**
   * [ ] Faeries #1 - Editions Nestiveqnen - 2000.05
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
@@ -191,6 +204,7 @@ v1.05 - 2017.07.20
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02  
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 
 ### 2001
 
@@ -209,6 +223,7 @@ v1.05 - 2017.07.20
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Lithophanie**
   * [ ] Khimaira #12 - Khimaira - 2001.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
@@ -317,6 +332,7 @@ v1.05 - 2017.07.20
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - version "long dub"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - version "long dub"
   * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Trois fois**
   * [ ] Fiction 2 - Les Moutons électriques - 2005.10
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
@@ -348,49 +364,64 @@ v1.05 - 2017.07.20
 * **Tanka-Coma**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Macula Lutea**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **L'Étoile, au matin**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - remixé dans "D'une étoile à l'autre"
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Blind Code**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **G.**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Never**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Don't** - (message taggué sur un mur)
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **A Lost Song**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Bubblegum Butterflies** - (Le vacarme du 'pop' dans le grand car-crash du time)
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Why?** (message tracé sur un miroir)
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Bloodflowers**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Kay** - (a grown up song)
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Father Lucifer**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Vertigo Eyes** - (leçon de vertige, dans l'ascenseur)
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Gone Fading Everything**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
 * **Shinear**
   * [ ] Babel Tour - collectif Université Paris Sorbonne - 2008.03
 * **Désaccordé (tuned in DAGDAD)**
@@ -433,8 +464,9 @@ v1.05 - 2017.07.20
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - remix de "L'étoile au matin"
 * **Béni soit l'exil**
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne de "La Faveur de la nuit"
-* **Le Maître de Kodo**
+* **Le Maître de kōdō**
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
+  * [ ] Hanami sonata - Edition régulière - Nitchevo Factory - 2018.08 - version roman
 * **The Passenger**
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03
 
@@ -458,6 +490,10 @@ v1.05 - 2017.07.20
   * [ ] Requiem #1 - Cercle d'études vampiriques - 1996.10
 * **Canto XI**
   * [ ] Requiem #5 - Cercle d'études vampiriques - 1997.10
+* **Tracés de feu (sous la peau)**
+  * [ ] Navigator - Nitchevo Factory - 2017.08
+* **Navigator**
+  * [ ] Navigator - Nitchevo Factory - 2017.08
  
 ## Audio
 
