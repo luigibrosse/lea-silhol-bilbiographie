@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.06 - 2018.09.30
+v1.07 - 2019.01.28
 
 ## Romans
 
@@ -22,9 +22,13 @@ v1.06 - 2018.09.30
 * **Sous le lierre**
   * [ ] Edition régulière - Nitchevo Factory - 2016.05 - 9791094902059 - version roman de "Under the Ivy"
 * **Le Maître de kōdō** *in Hanami Sonata*
-  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134 - version roman
+  * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141 - version roman
+  * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134 - version roman
 * **Le Maîtresse d'échos** *in Hanami Sonata*
-  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134
+  * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141
+  * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134
+* **Gridlock coda I : Rōmaji horizon** - Seppenko monogatari III
+  * [ ] Edition régulière - Nitchevo Factory - 2018.12 - 9791094902158
 
 ## Recueils
 * **Contes de la Tisseuse** - Cinq saisons et un élément
@@ -54,7 +58,8 @@ v1.06 - 2018.09.30
 * **Navigator** précédé de Tracés de feu (sous la peau)
   * [ ] Edition régulière - Nitchevo Factory - 2017.08 - 9791094902103
 * **Hanami Sonata** - Seppenko monogatari II
-  * [ ] Edition régulière - Nitchevo Factory - 2018.08 - 9791094902134
+  * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141
+  * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134
 
 ## Nouvelles
 
