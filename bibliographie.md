@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.07 - 2019.01.28
+v1.08 - 2019.05.15
 
 ## Romans
 
@@ -21,10 +21,10 @@ v1.07 - 2019.01.28
   * [ ] Pure edit - Nitchevo Factory - 2015.10 - 9791094902028
 * **Sous le lierre**
   * [ ] Edition régulière - Nitchevo Factory - 2016.05 - 9791094902059 - version roman de "Under the Ivy"
-* **Le Maître de kōdō** *in Hanami Sonata*
+* **Le Maître de kōdō** *in Hanami Sonata  - Seppenko monogatari II*
   * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141 - version roman
   * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134 - version roman
-* **Le Maîtresse d'échos** *in Hanami Sonata*
+* **Le Maîtresse d'échos** *in Hanami Sonata - Seppenko monogatari II*
   * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141
   * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134
 * **Gridlock coda I : Rōmaji horizon** - Seppenko monogatari III
@@ -60,6 +60,8 @@ v1.07 - 2019.01.28
 * **Hanami Sonata** - Seppenko monogatari II
   * [ ] Edition régulière - Nitchevo Factory - 2018.10 - 9791094902141
   * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134
+* **Masshiro Ni** (In perfect white) - Seppenko monogatari I
+  * [ ] Edition régulière - Nitchevo Factory - 2019.05 - 9791094902172
 
 ## Nouvelles
 
@@ -180,12 +182,14 @@ v1.07 - 2019.01.28
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **La Loi du flocon**
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
   * [ ] La Tisseuse - Edition fission - Editions de l’Oxymore - 2004.01
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05
 * **Runaway Train**
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] La Tisseuse - Edition régulière - Editions de l’Oxymore - 2004.01
@@ -203,6 +207,7 @@ v1.07 - 2019.01.28
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
   * [ ] Contes de la Tisseuse - Edition regulière - Nitchevo Factory - 2015.04
   * [ ] Contes de la Tisseuse - Edition augmentée - Nitchevo Factory - 2015.09
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **La Faille céleste**
   * [ ] Contes de la Tisseuse - Edition regulière - Editions Nestiveqnen - 2000.12
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
@@ -236,6 +241,7 @@ v1.07 - 2019.01.28
   * [ ] Les Chevaliers sans nom - Editions Nestiveqnen - 2001.10
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **Là où changent les formes**
   * [ ] Emblèmes #4 - Editions de l’Oxymore - 2001.12
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
@@ -259,6 +265,7 @@ v1.07 - 2019.01.28
   * [ ] Musiques de la Frontière - Edition grand format - Nitchevo Factory - 2017.04
 * **Différentes couleurs : Cinq prières japonaises**
   * [ ] Emblèmes #6 - Editions de l’Oxymore - 2002.08
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05
 * **Dialogue avec les ombres**
   * [ ] Rêves d'Ulthar - L'Œil du sphynx - 2002.08
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
@@ -273,6 +280,7 @@ v1.07 - 2019.01.28
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
   * [ ] Sacra II - Edition regular - Nitchevo Factory - 2016.03 - version isennienne dans "Béni soit l'exil"
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **Une Hécate et son chien**
   * [ ] Chimères, 15 récits d'animaux fabuleux - Editions de l’Oxymore - 2003.05
   * [ ] Conversation avec la Mort - Edition régulière - Editions de l’Oxymore - 2003.05
@@ -355,6 +363,7 @@ v1.07 - 2019.01.28
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06 - version augmentée
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - version augmentée
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07 - version originale
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07 - version augmentée
 * **Point du jour**
   * [ ] Fées Divers #1 - Le Souffle d'Éole - 2007.04
 * **Emblemata**
@@ -373,7 +382,8 @@ v1.07 - 2019.01.28
 * **Macula Lutea**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02 - inclut des passages de "Différentes couleurs"
-  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10
+  * [ ] Fovéa - Edition régulière - Nitchevo Factory - 2017.10 - inclut des passages de "Différentes couleurs"
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05 - inclut des passages de "Différentes couleurs"
 * **L'Étoile, au matin**
   * [ ] Fovéa - Erythropsine edit - Le calepin jaune éditions - 2008.02
   * [ ] Fovéa - Chloropsine mix - Le calepin jaune éditions - 2008.02
@@ -434,21 +444,27 @@ v1.07 - 2019.01.28
 * **Over Dry Lands** - (Comment la nef vint au fou)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **De l'Or dont on fait les âges** - (La Reine, en son privé)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **Stone** - (The Song of Herne)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **Leçon de clartés**
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **Fragarach** - (The Answerer)
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **A New Dawn**
   * [ ] Avant l'hiver - Edition régulière - Les Moutons électriques - 2008.06
   * [ ] Avant l'hiver - Edition augmentée - Les Moutons électriques - 2008.07
+  * [ ] Avant l'hiver - Edition régulière - Nitchevo Factory - 2018.07
 * **De la Gorgone, à sa fille** - (recette de salade composée)
   * [ ] Art Book Khimaira #1 Les Enfants de la chimère - Spootnik - 2008.10
 
@@ -457,7 +473,8 @@ v1.07 - 2019.01.28
 * **À travers la fumée**
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
 * **Gold** - Chant du filigrane de la fracture, sur la vague d'un Kintsugi
-  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02   
+  * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05
 * **Under the Ivy**
   * [ ] Sacra I - Edition regular - Nitchevo Factory - 2016.02
   * [ ] Sous le lierre - Edition régulière - Nitchevo Factory - 2016.05 - version roman
@@ -488,6 +505,12 @@ v1.07 - 2019.01.28
   * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
 * **Arena**
   * [ ] 340 mps - Edition regular - Nitchevo Factory - 2017.06
+
+### 2019
+* **Honne Cantata**
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05
+* **Black Ice**
+  * [ ] Masshiro Ni - Edition régulière - Nitchevo Factory - 2019.05 - inclut des passages de "Différentes couleurs"
 
 ## Poésie
 
