@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.08 - 2019.05.15
+v1.09 - 2020.03.29
 
 ## Romans
 
@@ -13,6 +13,7 @@ v1.08 - 2019.05.15
 * **La Glace et la nuit I** - Nigredo
   * [ ] Edition régulière - Les Moutons électriques - 2007.04 - 9782915793291
   * [ ] Edition collector - Coffret comprennant l'édition régulière plus l'entretien "Alchemical Hooligan"
+  * [ ] Edition redux - Nitchevo Factory - 2020.02 - 9791094902233
 * **Avant l'hiver** - Architectonique des clartés - roman en lambeaux
   * [ ] Edition régulière - Les Moutons électriques - 2008.06 - 9782915793482
   * [ ] Edition augmentée - Les Moutons électriques - 2008.07 - 9787774553239
@@ -29,6 +30,10 @@ v1.08 - 2019.05.15
   * [ ] Edition de luxe - Nitchevo Factory - 2018.08 - 9791094902134
 * **Gridlock coda I : Rōmaji horizon** - Seppenko monogatari III
   * [ ] Edition régulière - Nitchevo Factory - 2018.12 - 9791094902158
+* **Gridlock coda II : Hangul Express** - Seppenko monogatari IV
+  * [ ] Edition régulière - Première partie - Nitchevo Factory - 2019.11 - 9791094902189
+  * [ ] Edition régulière - Seconde partie - Nitchevo Factory - 2019.12 - 9791094902196
+  * [ ] Edition de luxe - Version intégrale - Nitchevo Factory - 2019.12 - 9791094902226  
 
 ## Recueils
 * **Contes de la Tisseuse** - Cinq saisons et un élément
@@ -536,3 +541,12 @@ v1.08 - 2019.05.15
   * [ ] La Glace et la Nuit I - Edition collector - Les Moutons électriques - 2007.04 - 9782915793291
 * **Down in Fovéa**
   * Mise en musique du teaser de "Fovéa" par Done By Mirrors, disponible sur [myspace](https://myspace.com/donebymirrors/music/song/down-in-fovea-9431723-9232907)
+
+## Carnets
+
+* **Gridrunner Notebook I** - NekoCrew e-Samurai
+      * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902202
+* **Gridrunner Notebook II** - Gurrido Gunslinger
+      * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902219
+* **Grid-on** - Glossaire de la grande grille
+      * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902165     
