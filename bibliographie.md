@@ -545,8 +545,8 @@ v1.09 - 2020.03.29
 ## Carnets
 
 * **Gridrunner Notebook I** - NekoCrew e-Samurai
-      * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902202
+  * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902202
 * **Gridrunner Notebook II** - Gurrido Gunslinger
-      * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902219
+  * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902219
 * **Grid-on** - Glossaire de la grande grille
-      * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902165     
+  * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902165     
