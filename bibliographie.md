@@ -1,6 +1,6 @@
 # Bibliographie de Léa Silhol
 
-v1.09 - 2020.03.29
+v1.10 - 2021.01.10
 
 ## Romans
 
@@ -33,7 +33,9 @@ v1.09 - 2020.03.29
 * **Gridlock coda II : Hangul Express** - Seppenko monogatari IV
   * [ ] Edition régulière - Première partie - Nitchevo Factory - 2019.11 - 9791094902189
   * [ ] Edition régulière - Seconde partie - Nitchevo Factory - 2019.12 - 9791094902196
-  * [ ] Edition de luxe - Version intégrale - Nitchevo Factory - 2019.12 - 9791094902226  
+  * [ ] Edition de luxe - Version intégrale - Nitchevo Factory - 2019.12 - 9791094902226
+* **La Glace et la nuit II** - Albedo
+  * [ ] Edition régulière - Nitchevo Factory - 2020.05 - 9791094902240
 
 ## Recueils
 * **Contes de la Tisseuse** - Cinq saisons et un élément
@@ -549,4 +551,6 @@ v1.09 - 2020.03.29
 * **Gridrunner Notebook II** - Gurrido Gunslinger
   * [ ] Edition régulière - Nitchevo Factory - 2019.10 - 9791094902219
 * **Grid-on** - Glossaire de la grande grille
-  * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902165     
+  * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902165
+* **Gramarye** - Glossaire de la grande grille
+  * [ ] Edition régulière - Nitchevo Factory - 2019.12 - 9791094902257
