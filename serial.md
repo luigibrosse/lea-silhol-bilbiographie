@@ -17,6 +17,7 @@ Tentative de listing des différentes "séries" de l'auteur. Les **?** indiquent
 | 9       | Masshiro Ni                                      |
 | 10      | Gridlock coda II : Hangul Express (Partie 1 & 2) |
 | 11      | La Glace et la nuit I                            |
+| 12      | La Glace et la nuit II                           |
 
 ## Vertiges et Miroirs
 
@@ -46,3 +47,5 @@ Tentative de listing des différentes "séries" de l'auteur. Les **?** indiquent
 | ------- | ---------------------- |
 | 1       | Gridrunner Notebook I  |
 | 2       | Gridrunner Notebook II |
+| 3       | Grid-on                |
+| 4       | Gramarye               |
